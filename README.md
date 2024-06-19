@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🙋🏻‍♂️ About me **Love movies🍿, videogames🎮, watching football⚽ and NBA🏀 games.**
+- 🙋🏻‍♂️ About me: **I enjoy movies🍿, videogames🎮, watching football⚽ and NBA🏀 games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
